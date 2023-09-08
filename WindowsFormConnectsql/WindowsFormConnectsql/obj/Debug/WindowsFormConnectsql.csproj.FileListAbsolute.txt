@@ -1,0 +1,11 @@
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\bin\Debug\WindowsFormConnectsql.exe.config
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\bin\Debug\WindowsFormConnectsql.exe
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\bin\Debug\WindowsFormConnectsql.pdb
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\obj\Debug\WindowsFormConnectsql.csproj.AssemblyReference.cache
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\obj\Debug\WindowsFormConnectsql.Form1.resources
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\obj\Debug\WindowsFormConnectsql.Properties.Resources.resources
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\obj\Debug\WindowsFormConnectsql.csproj.GenerateResource.cache
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\obj\Debug\WindowsFormConnectsql.csproj.CoreCompileInputs.cache
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\obj\Debug\WindowsFormConnectsql.exe
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\obj\Debug\WindowsFormConnectsql.pdb
+D:\vscode\design mode_csharp\WindowsFormConnectsql\WindowsFormConnectsql\obj\Debug\WindowsFormConnectsql.Form_register.resources
